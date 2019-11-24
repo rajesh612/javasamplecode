@@ -18,8 +18,6 @@ public class CountVowels {
 		   }
 		}
 		System.out.println(count);
-		System.out.println(count);
-		System.out.println(count);
 		
 	}
 
